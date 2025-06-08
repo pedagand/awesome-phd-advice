@@ -87,6 +87,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
 
+[For potential Ph.D. students by Ravi Vakil](https://math.stanford.edu/~vakil/potentialstudents.html)
+
 ### Statement of purpose
 
 [Database of Example PhD SOPs by the CS-SOP initiative](https://cs-sop.org)
