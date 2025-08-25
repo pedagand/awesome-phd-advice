@@ -26,6 +26,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Attending academic conferences](#attending-academic-conferences)
   * [Job search](#job-search)
 * [Memoirs](#memoirs)
+* [PhD in France](#France)
 
 ## Other similar collections
 
@@ -264,3 +265,9 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 [How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
 
 [The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
+
+## PhD in France
+
+[Encadrer des thèses : d’abord, ne pas nuire (1)](https://journals.openedition.org/echogeo/22889)
+
+[Encadrer des thèses : d’abord, ne pas nuire (2)](https://journals.openedition.org/echogeo/23589)
