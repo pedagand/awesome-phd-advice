@@ -26,7 +26,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Attending academic conferences](#attending-academic-conferences)
   * [Job search](#job-search)
 * [Memoirs](#memoirs)
-* [PhD in France](#France)
+* [PhD in France](#PhD-in-France)
 
 ## Other similar collections
 
