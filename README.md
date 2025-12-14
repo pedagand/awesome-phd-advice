@@ -178,6 +178,10 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 [How to write a (hopefully good) paper by Martin Vetterli ](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
+[Write No Matter What by Joli Jensen](https://search.worldcat.org/title/1001807225)
+
+[How to write a lot by Paul Silvia](https://search.worldcat.org/title/1031051356)
+
 ### Blogposts
 
 [PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
